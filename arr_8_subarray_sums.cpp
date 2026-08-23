@@ -33,7 +33,7 @@ void maxsubarraysum2(int *arr, int n){
     cout << "max subarray sum after optimsaed brute force alogoritm = " << maxsum <<"\n";
 }
 
-// Kadane's algorithm: finds the maximum subarray sum in O(n) time.
+// Kadane's algorithm: finds the maximum subarray sum in O(n)time.
 void maxsubarraysum3(int *arr, int n){
     int maxsum = INT_MIN ; // Best sum found so far.
     int currsum= 0;
