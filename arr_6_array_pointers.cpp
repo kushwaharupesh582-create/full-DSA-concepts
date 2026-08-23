@@ -12,7 +12,7 @@ int main (){
     cout<<"currnet locaion : " << ptr1++ << "  new locaion : " << ptr1-- <<"\n\n";
 
 
-    // addition, substraction of cosntants
+    // addition, substraction of constants
     int *ptr2 = arr;
     cout << "addition \n" ;
     
