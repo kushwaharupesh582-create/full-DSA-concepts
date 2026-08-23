@@ -24,7 +24,7 @@ void print_subarray_all(int *arr, int n){
 }
 
 
-
+//main 
 int main(){
     int arr[5]={1,2,3,4,5};
     int n = 5;
