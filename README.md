@@ -1,5 +1,7 @@
 # C++ Array and Loop Fundamentals
 
+1d arrays
+
 This repository demonstrates the fundamental concepts of C++ programming, specifically focusing on **Arrays** and **Loops**. It provides a practical look at how to initialize, access, and manipulate data within arrays using different techniques.
 
 ---
